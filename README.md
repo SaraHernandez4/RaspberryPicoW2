@@ -1135,21 +1135,21 @@ Circuito
 
 Corriendo en el OLED (CALOR)
 
-![](Calor.jpg)
+![](Calor.jpeg)
 
-![](Calor1.jpg)
+![](Calor1.jpeg)
 
 Corriendo en el OLED (CALIDO)
 
-![](Calido.jpg)
+![](Calido.jpeg)
 
-![](Calido1.jpg)
+![](Calido1.jpeg)
 
 Corriendo en el OLED (FRIO)
 
-![](Frio.jpg)
+![](Frio.jpeg)
 
-![](Frio1.jpg)
+![](Frio1.jpeg)
 
 ## Practica de Mostrar "Hola mundo" en el OLED y Pico W
 
