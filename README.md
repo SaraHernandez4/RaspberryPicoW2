@@ -1154,7 +1154,7 @@ Corriendo en el OLED (FRIO)
 
 Corriendo video
 
-![](Temperatura.mp4).
+![AQUI](Temperatura.mp4).
 
 ## Practica de Mostrar "Hola mundo" en el OLED y Pico W
 
