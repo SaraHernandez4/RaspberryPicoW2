@@ -1151,6 +1151,11 @@ Corriendo en el OLED (FRIO)
 
 ![](Frio1.jpeg)
 
+
+Corriendo video
+
+![](Temperatura.mp4).
+
 ## Practica de Mostrar "Hola mundo" en el OLED y Pico W
 
 ### CÓDIGO
